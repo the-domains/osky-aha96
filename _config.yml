@@ -1,4 +1,3 @@
-layout_spectrum: 0.9955591871403158
 typography_spectrum: 0.8264982753898948
 color:
   brandStrength: 0.930229727178812
@@ -6,9 +5,11 @@ color:
   saturation: 0.9085483418311924
   rhythmicContrast: 0.9884753115475178
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#703030'
+    - '#2F343B'
+    - '#7E827A'
+    - '#E3CDA4'
+    - '#C77966'
+layout_spectrum: 0.9955591871403158
 name: Osky
+title: Grid
